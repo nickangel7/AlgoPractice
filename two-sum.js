@@ -1,10 +1,5 @@
-/*
-  Given an array of numbers and a target number,
-  return true if two of the numbers in the array add up to the target.
-  Otherwise, return false.
-
-  You may assume that each input would have exactly one solution, and you may not use the same element twice.
-  The straightforward way to solve this problem would take O(n²)time. Is it possible to do this in O(n) time? 
+  Thdf
+/straightforward way to solve this problem would take O(n²)time. Is it possible to do this in O(n) time? 
 
   Example:
 
